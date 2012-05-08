@@ -1,0 +1,16 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4053
+
+ab,cd,ef   :TransposeCSV ,   ab,gh,mno
+gh,ij,kl ==================> cd,ij,pqrs
+mno,pqrs                     ef,kl,
+
+abcde                         afjop
+fghi       :Transpose         bgk q
+jklmn  ====================>  chl r
+o                             dim s
+pqrst                         e n t
+
+
+
+This script is developed at
+https://github.com/salsifis/vim-transpose
