@@ -1,0 +1,9 @@
+:Transpose	transpose.txt	/*:Transpose*
+:TransposeCSV	transpose.txt	/*:TransposeCSV*
+:TransposeInteractive	transpose.txt	/*:TransposeInteractive*
+:TransposeTab	transpose.txt	/*:TransposeTab*
+:TransposeWords	transpose.txt	/*:TransposeWords*
+g:transpose_csv_default_separator	transpose.txt	/*g:transpose_csv_default_separator*
+transpose	transpose.txt	/*transpose*
+transpose-tutorial	transpose.txt	/*transpose-tutorial*
+transpose.txt	transpose.txt	/*transpose.txt*
